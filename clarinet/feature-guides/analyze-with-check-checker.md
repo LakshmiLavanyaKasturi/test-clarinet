@@ -1,5 +1,6 @@
 ---
 title: Analyze with Check-Checker
+slug: clarinet
 ---
 
 The check-checker is a static analysis pass you can use to help find potential vulnerabilities in your contracts.

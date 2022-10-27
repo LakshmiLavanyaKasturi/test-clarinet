@@ -1,5 +1,6 @@
 ---
 title: Deploy Clarinet with Subnets
+slug: clarinet
 ---
 
 Clarinet may be used for facilitating experimentations with [subnets](https://www.youtube.com/watch?v=PFPwuVCGGuI).

@@ -1,5 +1,6 @@
 ---
 title: Set up local Development Environment
+slug: clarinet
 ---
 
 ## Developing a Clarity smart contract

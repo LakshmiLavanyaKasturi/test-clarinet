@@ -1,5 +1,6 @@
 ---
 title: Test Contract
+slug: clarinet
 ---
 
 Clarinet provides a testing harness based on Deno that enables you to create automated unit tests or pseudo-integration tests using Typescript.
